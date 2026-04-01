@@ -40,10 +40,11 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 ## 🛠️ Tech Stack & Skills Highlighted
-1. **Database**: SQL Server
-2. **Skills**: T-SQL, ETL Development, Data Cleaning
-3. **Data Modeling**: Star Schema, Dimensional Modeling
-4. **Architecture**: Medallion Architecture (Bronze, Silver, Gold)
+
+* **Database:** MS SQL Server
+* **Skills:** T-SQL, ETL / ELT Development, Data Cleansing, Stored Procedures
+* **Data Modeling:** Star Schema, Dimensional Modeling
+* **Architecture:** Medallion Architecture (Bronze, Silver, Gold)
 
 ---
 ## 📂 Repository Structure
