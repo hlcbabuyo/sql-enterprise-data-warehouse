@@ -1,4 +1,4 @@
-# 💻 SQL Data Warehouse Project
+# 💻 Enterprise ERP & CRM Data Warehouse
 
 A data engineering project focused on building a data warehouse using SQL Server. This project demonstrates the practical implementation of the Medallion Architecture to extract, clean, and model raw data into a structured format ready for analytics.
 
@@ -48,7 +48,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+erp-crm-data-warehouse/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
