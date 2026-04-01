@@ -86,7 +86,9 @@ Hi there! I am **Harvie Lorenz C. Babuyo**, a **3rd-year B.S. in Computer Scienc
 
 **Let's connect:**
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/hlcbabuyo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hlcbabuyo@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/hlcbabuyo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:hlcbabuyo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/hawirrr/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/hlcbabuyo)
 
