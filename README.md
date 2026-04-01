@@ -39,6 +39,15 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
+## 🌊 Data Flow Diagram
+
+This data flow diagram illustrates how records move and transform through the project's Medallion Architecture. It maps the journey of legacy CRM and ERP data from raw ingestion (Bronze), through data cleansing and type standardization (Silver), to final business-level aggregations and Star Schema modeling (Gold).
+
+<div align="center">
+  <img src="docs/data_flow.drawio.svg" alt="Data Flow Diagram" width="1000">
+</div>
+
+---
 ## 🛠️ Tech Stack & Skills Highlighted
 
 * **Database:** MS SQL Server
