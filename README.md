@@ -83,8 +83,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I am **Harvie Lorenz C. Babuyo**, a **3rd-year B.S. in Computer Science student** at the **University of Science and Technology of Southern Philippines - Cagayan de Oro**. 
 
-I am a **Junior Data Engineer** passionate about building efficient ETL pipelines, designing scalable data warehouses, and transforming raw data into structured, ready-to-use formats. Currently, I am focused on mastering modern data architectures and analytics workflows to solve practical, real-world data challenges.
-
 **Let's connect:**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/harvie-lorenz-c-babuyo-16303a3a9/)
