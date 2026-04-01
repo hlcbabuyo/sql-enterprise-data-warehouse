@@ -47,6 +47,7 @@ This data flow diagram illustrates how records move and transform through the pr
   <img src="docs/data_flow.drawio.svg" alt="Data Flow Diagram" width="1000">
 </div>
 
+---
 ## 🔄 Data Integration
 
 This diagram illustrates the logical relationships and shared keys between tables in the source systems (CRM and ERP) that will be integrated into the Bronz layer. Identifying these connections is essential for designing robust ingestion pipelines and ensuring data integrity during transformation.
