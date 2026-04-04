@@ -67,7 +67,7 @@ This diagram illustrates the logical relationships and shared keys between table
 ---
 ## 📂 Repository Structure
 ```
-erp-crm-data-warehouse/
+sql-enterprise-data-warehouse/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
