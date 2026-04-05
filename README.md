@@ -57,10 +57,13 @@ This diagram illustrates the logical relationships and shared keys between table
 </div>
 
 ---
-## Data Model (Star Schema)
+## ⭐ Data Model (Star Schema)
+
 The Gold layer of this SQL Enterprise Data Warehouse is modeled using a standard Star Schema, optimized for fast aggregations and BI reporting.
 
-![Star Schema Data Model](docs/data_model.drawio.svg)
+<div align="center">
+  <img src="docs/data_model.drawio.svg" alt="Star Schema Data Model" width="800">
+</div>
 
 ---
 ## 🛠️ Tech Stack & Skills Highlighted
