@@ -2,7 +2,7 @@
 ===============================================================================
 Stored Procedure: Load Silver Layer (Bronze -> Silver)
 ===============================================================================
-Project: Enterprise ERP & CRM Data Warehouse
+Project: SQL Enterprise Data Warehouse
 Developer: Harvie Lorenz C. Babuyo
 ===============================================================================
 Script Purpose:
