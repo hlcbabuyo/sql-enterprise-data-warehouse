@@ -2,7 +2,7 @@
 ===============================================================================
 Stored Procedure: Load Bronze Layer (Source -> Bronze)
 ===============================================================================
-Project: Enterprise ERP & CRM Data Warehouse
+Project: SQL Enterprise Data Warehouse
 Developer: Harvie Lorenz C. Babuyo
 ===============================================================================
 Script Purpose:
